@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "harsh",
+      "email": "har@gmail.com",
+      "phone": "1212121222"
+    },
+    {
+      "id": "3",
+      "name": "ram",
+      "email": "ram11@gmail.com",
+      "phone": "1212121222"
+    },
+    {
+      "id": "4",
+      "name": "harsh",
+      "email": "har@gmail.com",
+      "phone": "1212121222"
+    },
+    {
+      "name": "ramacfsfcscs",
+      "email": "rama787@gmail.com",
+      "phone": "1212121222",
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "name": "harsh",
+      "email": "har@gmail.com",
+      "phone": "1212121222"
+    },
+    {
+      "id": "7",
+      "name": "pooja",
+      "email": "pooja8392@gmail.com",
+      "phone": "9029302930"
+    }
+  ]
+}
